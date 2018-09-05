@@ -15,8 +15,8 @@
 
 # [](https://github.com/SpringForAll/spring-boot-starter-swagger#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8)
 
-###操作步骤
-######第一步：选择版本和类型
+# 操作步骤
+## 第一步：选择版本和类型
 打开地址： https://start.spring.io/
 ![spring.io.jpg](https://upload-images.jianshu.io/upload_images/8122772-53b83d16c8877ce5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -24,7 +24,7 @@
 开发语言有：Java、Kotlin、Groovy
 选择 Spring Boot 的版本
 填写 maven 的 Group 、Artifact
-######第二步：添加依赖
+## 第二步：添加依赖
 ![添加依赖.jpg](https://upload-images.jianshu.io/upload_images/8122772-cec4f589cbc805d2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 你可以在这里输入关键字，如：mysql、mybatis、cache、web
@@ -42,7 +42,7 @@ Web项目常用依赖（Web）
 非关系数据库（NoSQL）
 云（Cloud xxx）
 
-######第三步：下载项目
+## 第三步：下载项目
 当你把依赖项都选择完毕后，点击那个绿色的大按钮（Generate Project）就会下载一个项目依赖配置好的项目了。
 
 备注：这里没有添加其他依赖，只是一个最基本的spring-boot-starter
