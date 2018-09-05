@@ -49,8 +49,8 @@ Web项目常用依赖（Web）
 
 ## 贡献者
 
-*   [IT实战联盟-郑亮亮](https://www.jianshu.com/u/283f93ada597)
-*   [IT实战联盟-乔仕举](https://www.jianshu.com/u/29d607600e98)
+*   [IT实战联盟-Line](https://www.jianshu.com/u/283f93ada597)
+*   [IT实战联盟-咖啡](https://www.jianshu.com/u/29d607600e98)
 
 
 ---------------END----------------
